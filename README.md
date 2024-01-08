@@ -1,4 +1,4 @@
-# GroupQ_PrototypeGameBuild
+# GroupQ_GameBuild
 Game name:Tower guardians<br>
 How to Play:<br>
 。The player can control the camera that moves with ‘W S A D’ buttons on keyboard and rotate the camera with right mouse buttons.<br>
